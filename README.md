@@ -1,7 +1,3 @@
- 
-
----  
-
 # **📌 Flask-MongoDB CRUD Application**  
 *A modern, lightweight **CRUD** (Create, Read, Update, Delete) web application built with **Flask** and **MongoDB**, designed for seamless data management.*  
 
@@ -61,8 +57,4 @@ my_flask_app/
 ### **Enhancements (Future Work)**  
 - Add **Flask-WTF** for form validation.  
 - Implement **Swagger/OpenAPI** docs for API endpoints.  
-- Dockerize for containerized deployment.  
-
----  
-
- 
+- Dockerize for containerized deployment.
